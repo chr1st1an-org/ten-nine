@@ -1,4 +1,4 @@
-wut wut # Creating an application with a Quarkus code sample
+wut wut butt # Creating an application with a Quarkus code sample
 
 **Note:** The Quarkus code sample uses the **8081** HTTP port.
 
